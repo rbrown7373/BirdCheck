@@ -1,3 +1,5 @@
+---
+---
 # BirdCheck Privacy Policy
 
 **Effective Date: October 8, 2026**
