@@ -1,0 +1,26 @@
+# BirdCheck — Documentation
+
+> Versioned public documentation for BirdCheck. Source snapshot: iOS 1.0 build 8 (October 29, 2026); draft pending final review. This is a product guide, not access to any user's private records.
+
+## General guides
+- [Overview](docs/README.md): What BirdCheck does and where to start.
+- [Getting Started](docs/getting-started.md): Home screen and first use.
+- [Life List & Checklists](docs/lists-and-life-list.md): Species seen and reusable lists.
+- [Outings & Sightings](docs/outings-and-sightings.md): Recording birds and historical entries.
+- [Map & Locations](docs/map-and-locations.md): Saved geography and map counts.
+- [Bird Cards & Photos](docs/bird-cards-and-photos.md): Six-photo gallery and user pictures.
+- [BirdCheck AI](docs/birdcheck-ai.md): Voice/text questions and limitations.
+- [Apple Watch & Fitness](docs/apple-watch-and-fitness.md): Watch operation.
+- [Backups & iCloud](docs/backup-and-icloud.md): Personal records, snapshots, restore, sync.
+- [Settings & Privacy](docs/settings-and-privacy.md): Controls and permissions.
+- [FAQ](docs/faq.md): Concise answers.
+- [Troubleshooting](docs/troubleshooting.md): Common problems.
+
+## Technical reference for accurate answers
+- [Feature facts](docs/reference/feature-facts.md): Source-grounded capabilities and exclusions.
+- [Data definitions](docs/reference/data-definitions.md): Observation, species, Life List, region and counts.
+- [AI answering guide](docs/reference/ai-answering-guide.md): Support answer guidelines and privacy rules.
+- [Source map](docs/reference/source-map.md): Swift implementation map.
+- [Verification](docs/reference/verification.md): What has and hasn't been confirmed.
+
+Important: An external AI reading these Markdown files does not have access to the private BirdCheck database and must not claim to know a person's saved birds, dates, or locations. BirdCheck 1.0 build 8 does not use live WeatherKit.
